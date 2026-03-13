@@ -3,6 +3,7 @@ import Home from "./exam/Home";
 import AddStudent from "./exam/AddStudent";
 import ApiDemo from "./exam/ApiDemo";
 import DisplayData from "./exam/DisplayData";
+import "./App.css";
 
 
 function App() {
